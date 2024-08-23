@@ -10,7 +10,6 @@ What is GitHub, and what are its primary functions and features? Explain how it 
 Repositories on GitHub:
 GitHub is a web-based platform that facilitates collaborative software development through its version control system, repositories, branching and merging, pull requests, issue tracking, project management tools, and integrated CI/CD workflows. It centralizes code management, supports communication among developers, and offers access control and integration with other tools to streamline the development process.
 
-
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 Version Control with Git:
 A GitHub repository is a storage space on GitHub for managing and tracking a project's files and history. To create a new repository, sign in to GitHub, click “New repository,” fill in the repository name, description, and settings, and then create it. Essential elements to include are a README.md for project details, a .gitignore to specify files to exclude, a LICENSE file for legal terms, and optionally CONTRIBUTING.md and CODE_OF_CONDUCT.md for guidelines and community standards. GitHub uses Git for version control, allowing commits to track changes, branches for parallel development, and merging to integrate changes.
